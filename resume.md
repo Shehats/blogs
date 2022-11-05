@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/profile.jpg" alt="profile" width="300"/>](profile.jpg)
+<img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/profile.jpg" alt="profile" width="300"/>
 
 ## I am Saleh Shehata
 I like to consider myself an enthusiastic Software Engineer who likes to learn something new every day. I try to highlight my interests and what I am currently working on in this blog.
