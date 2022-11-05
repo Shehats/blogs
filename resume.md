@@ -17,7 +17,9 @@ I like to consider myself an enthusiastic Software Engineer who likes to learn s
 <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/plaid_logo.svg" alt="plaid" width="200"/>
 
 - I worked at Plaid for quite a bit as a ***Software Engineer*** in the ***API Connectivity Team*** where I worked on some of Plaid's bank integrations.
-  - Tech used: <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/go_icon.svg" alt="go" width="60"/> <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/typescript_icon.svg" alt="ts" width="40"/> <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/nodejs_icon.svg" alt="nodejs" width="40"/> <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/mysql_logo.svg" alt="mysql" width="70"/> <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/mongodb_logo.svg" alt="mongodb" width="70"/> <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/redis_logo.svg" alt="redis" width="70"/>
+  - ***Tech used***
+
+<img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/go_icon.svg" alt="go" width="60"/> <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/typescript_icon.svg" alt="ts" width="40"/> <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/nodejs_icon.svg" alt="nodejs" width="40"/> <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/mysql_logo.svg" alt="mysql" width="70"/> <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/mongodb_logo.svg" alt="mongodb" width="70"/> <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/redis_logo.svg" alt="redis" width="70"/>
 
 <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/target_logo.png" alt="target" width="100"/>
 
