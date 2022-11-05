@@ -1,10 +1,10 @@
-<img src="/images/profile.jpg" alt="profile" width="300"/>
+<img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/profile.jpg" alt="profile" width="300"/>
 
 ## I am Saleh Shehata
 I like to consider myself an enthusiastic Software Engineer who likes to learn something new every day. I try to highlight my interests and what I am currently working on in this blog.
 
 ### I know:
-<img src="/images/go_icon.svg" alt="go" width="50"/> <img src="/images/java_logo.svg" alt="java" width="50"/> <img src="/images/spring_logo.svg" alt="spring" width="100"/> <img src="/images/typescript_icon.svg" alt="ts" width="50"/> <img src="/images/javascript_icon.svg" alt="js" width="50"/> <img src="/images/nodejs_icon.svg" alt="nodejs" width="50"/> <img src="/images/python_logo.svg" alt="python" width="100"/> <img src="/images/kotlin_logo.svg" alt="kotlin" width="100"/> <img src="/images/scala_logo.svg" alt="kotlin" width="100"/> <img src="/images/kafka_logo.svg" alt="kafka" width="100"/> <img src="/images/redis_logo.svg" alt="redis" width="100"/> <img src="/images/mongodb_logo.svg" alt="mongodb" width="100"/> <img src="/images/mysql_logo.svg" alt="mysql" width="100"/> <img src="/images/postgresql_icon.svg" alt="postgresql" width="100"/> <img src="/images/docker-logol.svg" alt="docker" width="100"/>
+<img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/go_icon.svg" alt="go" width="50"/> <img src="/images/java_logo.svg" alt="java" width="50"/> <img src="/images/spring_logo.svg" alt="spring" width="100"/> <img src="/images/typescript_icon.svg" alt="ts" width="50"/> <img src="/images/javascript_icon.svg" alt="js" width="50"/> <img src="/images/nodejs_icon.svg" alt="nodejs" width="50"/> <img src="/images/python_logo.svg" alt="python" width="100"/> <img src="/images/kotlin_logo.svg" alt="kotlin" width="100"/> <img src="/images/scala_logo.svg" alt="kotlin" width="100"/> <img src="/images/kafka_logo.svg" alt="kafka" width="100"/> <img src="/images/redis_logo.svg" alt="redis" width="100"/> <img src="/images/mongodb_logo.svg" alt="mongodb" width="100"/> <img src="/images/mysql_logo.svg" alt="mysql" width="100"/> <img src="/images/postgresql_icon.svg" alt="postgresql" width="100"/> <img src="/images/docker-logol.svg" alt="docker" width="100"/>
 
 ### I am familiar with
 
