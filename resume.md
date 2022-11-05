@@ -14,17 +14,17 @@ I like to consider myself an enthusiastic Software Engineer who likes to learn s
 
 ##### But before that I worked at:
 
-<img src="/images/plaid_logo.svg" alt="plaid" width="200"/>
+<img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/plaid_logo.svg" alt="plaid" width="200"/>
 
 - I worked at Plaid for quite a bit as a ***Software Engineer*** in the ***API Connectivity Team*** where I worked on some of Plaid's bank integrations.
-  - Tech used: <img src="/images/go_icon.svg" alt="go" width="60"/> <img src="/images/typescript_icon.svg" alt="ts" width="40"/> <img src="/images/nodejs_icon.svg" alt="nodejs" width="40"/> <img src="/images/mysql_logo.svg" alt="mysql" width="70"/> <img src="/images/mongodb_logo.svg" alt="mongodb" width="70"/> <img src="/images/redis_logo.svg" alt="redis" width="70"/>
+  - Tech used: <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/go_icon.svg" alt="go" width="60"/> <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/typescript_icon.svg" alt="ts" width="40"/> <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/nodejs_icon.svg" alt="nodejs" width="40"/> <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/mysql_logo.svg" alt="mysql" width="70"/> <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/mongodb_logo.svg" alt="mongodb" width="70"/> <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/redis_logo.svg" alt="redis" width="70"/>
 
-<img src="/images/target_logo.png" alt="target" width="100"/>
+<img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/target_logo.png" alt="target" width="100"/>
 
 - I worked at Target for a bit as a ***Senior Software Engineer***, where I worked on integrating Consenus's stack with Target's stack.
   - Tech used: 
  
-<img src="/images/consensus_logo.jpg" alt="consensus" width="100"/>
+<img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/consensus_logo.jpg" alt="consensus" width="100"/>
 
 - I worked at Consensus, as a ***Software Engineer***, before it fully merged with Target on some of the Carrier integrations and a lot of bug fixing.
   - Tech used:
