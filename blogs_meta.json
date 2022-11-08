@@ -5,6 +5,16 @@
     "description": "Take a pause and shut off the display and enjoy life the real way, then come back for work",
     "href": "/"
   },
-  "featured-posts": [],
-  "all-posts": []
+  "featuredPosts": [],
+  "allPosts": [],
+  "social": [
+    {
+      "name": "Github",
+      "url": "https://github.com/Shehats",
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/salehshehata/"
+    }
+  ]
 }
