@@ -27,3 +27,9 @@ I like to consider myself an enthusiastic Software Engineer who likes to learn s
 
 
 <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/taxbit_logo.svg" alt="consensus" width="100"/>
+
+
+***Learning***
+
+
+<img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/rust_logo.svg" alt="rust" width="150"/> <img src="https://raw.githubusercontent.com/Shehats/blogs/main/images/terraform_logo.svg" alt="terraform" width="150"/>
