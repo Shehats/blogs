@@ -6,3 +6,12 @@
 
 #### Immutability and Architecture
 - All race conditions, deadlock conditions and concurrent conditions or concurrent update problem are due to mutable variables.
+
+#### Spliting design from users point of view is key
+
+#### Creating bounderies between layers
+- Use clear bounderies
+- Use Facade Patterns
+- Use Partial Sepration
+
+#### Security
