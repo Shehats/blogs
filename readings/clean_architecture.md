@@ -15,3 +15,14 @@
 - Use Partial Sepration
 
 #### Security
+
+Security has 6 cores:
+- Core principles
+- THe five functions of cybersecurity: identify, protect, detect, respond and recover.
+- Implicit trust vs zero trust
+- Securing data
+- Authentication and authorization.
+
+#### NoSQL vs SQL
+
+- 
