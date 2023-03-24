@@ -50,7 +50,7 @@ I like to consider myself an enthusiastic Software Engineer who likes to learn s
 
 - Mainly a full stack role:
   - Working on creating and maintaining multiple microservices and APIs.
-  - Creading Angularjs pages.
+  - Creating Angularjs pages.
   - Working on PHP system.
 
 ***Tech used*** Javascript, Java, Scala, Groovy, Spring Boot, Redis, MySQL and MongoDB
